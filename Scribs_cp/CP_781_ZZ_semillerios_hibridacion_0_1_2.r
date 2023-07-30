@@ -34,7 +34,7 @@ PARAM$kaggle$envios_desde <- 9500L
 PARAM$kaggle$envios_hasta <- 11500L
 PARAM$kaggle$envios_salto <- 500L
 
-PARAM$graficar$envios_hasta <- 20000L # para el caso que deba graficar
+PARAM$graficar$envios_hasta <- 20000L # para el caso que deba traficar
 PARAM$graficar$ventana_suavizado <- 2001L
 
 PARAM$home <- "~/buckets/b1/"
